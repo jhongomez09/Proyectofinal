@@ -6,7 +6,16 @@
 
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url("/images/img_fondo.jpg");
+    background-image: url("./img/img_fondo.jpg");
+}
+
+.ln {
+    width: 40%;
+}
+
+.ln1 {
+    width: 40%;
+    margin-left: 70%;
 }
 
 .nav-item {
